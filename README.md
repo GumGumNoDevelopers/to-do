@@ -1,9 +1,9 @@
-# ToDo List for ECOM
+# ToDo List
 
-## Frontend 
-- Login Page
-- product lsiting
-- cart & Orders
+## Setup
 
-### Backend
-- GraphQL
+### Node - v18.17.0
+
+
+React 101
+- JSX
